@@ -1,13 +1,7 @@
-# profil anggota 2
+# Profil Anggota 2
 
--Nama: Bainal Hakim Alfa Raihan
--Username Github: bainalhkim_
--Gmail:bainalhkim_@gmail.com
--kelas: XI RPL A
--TugasMengelola repository GitHub dan dokumentasi profil anggota.# Profil Anggota 2
-
-- Nama:
-- Username GitHub:
-- Gmail:
-- Kelas:
-- Tugas:
+- Nama: Bainal Hakim Alfa Raihan
+- Username GitHub: bainalhkim_
+- Kelas: XI RPL A
+- Jurusan: Rekayasa Perangkat Lunak
+- Tugas dalam kelompok: Mengelola repository GitHub dan dokumentasi profil anggota.
